@@ -1,0 +1,11 @@
+{
+  "name": "videostreamingservice",
+  "version": "1.0.0",
+  "description": "It can stream local video content to web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
